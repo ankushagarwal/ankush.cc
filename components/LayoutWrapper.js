@@ -14,7 +14,8 @@ const LayoutWrapper = ({ children }) => {
         <header className="flex items-center justify-between py-10">
           <div>
             <Link href="/" aria-label={siteMetadata.headerTitle}>
-              <div className="flex items-center justify-between">
+              {/* comment: disable logo and title */}
+              {/* <div className="flex items-center justify-between">
                 <div className="mr-3">
                   <Logo />
                 </div>
@@ -25,7 +26,7 @@ const LayoutWrapper = ({ children }) => {
                 ) : (
                   siteMetadata.headerTitle
                 )}
-              </div>
+              </div> */}
             </Link>
           </div>
           <div className="flex items-center text-base leading-5">
@@ -40,7 +41,7 @@ const LayoutWrapper = ({ children }) => {
                 </Link>
               ))}
             </div>
-            <ThemeSwitch />
+            {/* <ThemeSwitch /> */}
             <MobileNav />
           </div>
         </header>
