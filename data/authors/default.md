@@ -9,4 +9,4 @@ linkedin: https://linkedin.com/in/ankushagarwal11
 github: https://github.com/ankushagarwal
 ---
 
-Engineer by day. Engineer by night. Building [Co:Create](https://usecocreate.io/) to drive growth and loyalty for NFT projects and web3 brands. Former engineering at Meta and Google.
+I am a Software Engineer based out of the San Francisco Bay Area. My technical interests include, but are not limited to, Cryptocurrencies / Blockchain, Backend Computational Infrastructure, Scalable Distribted Systems and Emergent AI Technologies. I currently work on building [Co:Create](https://usecocreate.io/) to drive growth and loyalty for NFT projects and web3 brands. Former engineering at Meta and Google.
